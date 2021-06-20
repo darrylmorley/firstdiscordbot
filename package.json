@@ -1,0 +1,13 @@
+{
+  "name": "firstdiscordbot",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "repository": "https://github.com/darrylmorley/firstdiscordbot.git",
+  "author": "Darryl Morley <darrylmorley.uk@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
